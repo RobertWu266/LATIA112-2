@@ -1,5 +1,5 @@
 dataset url:https://www.kaggle.com/datasets/bhavikjikadara/entire-world-educational-data  
-a dataset about education grade and unempolyment rate and others
+a dataset about education grade and unempolyment rate and others  
 To make it reproducable, change "Countries and areas" to "Countries and Areas"  
 Change "Latitude " to "Latitude"  
 METADATA:  
